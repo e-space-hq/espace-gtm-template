@@ -15,5 +15,5 @@
 homepage: "https://www.e-space.se"
 documentation: "https://manager.e-space.se/surveys"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: 2d93feb39403daaee0f6f115ce475fbe72345272
     changeNotes: Initial Version
